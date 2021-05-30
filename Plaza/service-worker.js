@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "http://www.robvanleijsen.nl/Plaza/precache-manifest.0192f619b6e067b5288a3666a6123c5e.js"
+  "http://www.robvanleijsen.nl/Plaza/precache-manifest.2e82ad4b67ba4909a12164aa3679276c.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "protoype"});
