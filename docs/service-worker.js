@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.7e96573abc61d350f5159b45c6c2fcfc.js"
+  "https://azertypow.github.io/Plaza/precache-manifest.4b1d143cf8ff8947c61e2380fd0e15de.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "protoype"});
